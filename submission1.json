@@ -1,0 +1,6 @@
+{
+  "prompt": "your exact final prompt verbatim",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A suit obsessively pinned to one mannequin's exact body cannot fit any other — perfect training performance, zero generalization."
+}
