@@ -1,0 +1,7 @@
+{
+  "dataset_name": "CDC Youth Risk Behavior Survey 2021",
+  "dataset_url": "https://www.cdc.gov/healthyyouth/data/yrbs/index.htm",
+  "insight": "In 2021, 29% of US high school students reported persistent feelings of sadness or hopelessness lasting more than two weeks — nearly 1 in 3 students in every classroom.",
+  "model": "Midjourney v6.1",
+  "prompt": "A quiet elementary school classroom viewed from slightly above and to the side. Thirty wooden desks in rows, warm afternoon light from a window. Most desks have a child silhouette sitting at them. But nine desks are different — the chair and desk remain, but the child has faded to near-transparency, a ghostly watermark of presence. No melodrama. Photorealistic, painterly, melancholy. Muted palette: chalk-dust beige, faded wood, grey-blue light. --no crying, hospital, storm, broken heart, phone, social media, chart, labels --style raw --ar 16:9"
+}
