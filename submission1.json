@@ -2,5 +2,5 @@
   "prompt": "your exact final prompt verbatim",
   "model": "DALL·E 3",
   "concept": "overfitting",
-  "metaphor": "A suit covered in excessive pins and chalk marks fits one mannequin with hyper-specific precision but could never fit any other body — just as an overfitted model memorizes training data but fails to generalize."
+  "metaphor": "A suit obsessively pinned to one mannequin's exact body cannot fit any other — perfect training performance, zero generalization."
 }
