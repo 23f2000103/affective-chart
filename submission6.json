@@ -1,0 +1,6 @@
+{
+  "prompt": "A sparse room viewed from directly above. Twenty small human figures scattered loosely across a vast pale floor — isolated, wide empty space between them. But connecting every pair of figures is an ultra-fine thread, nearly invisible individually, collectively forming a dense luminous web covering almost the entire floor. The figures are few. The web is overwhelming. Photorealistic, architectural overhead view, cool white floor, threads catch the light faintly. The mood: something is far more connected than it should be. --no birthday cake, candles, balloons, numbers, text, labels, charts",
+  "model": "DALL·E 3",
+  "paradox": "The Birthday Problem",
+  "visual_logic": "Twenty sparse figures hide 190 pairwise connections. The visible sparseness of people versus the invisible density of threads between them embodies the gap between linear intuition and combinatorial reality."
+}
